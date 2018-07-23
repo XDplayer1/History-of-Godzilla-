@@ -1,1 +1,26 @@
+h1{
+  color: red;
+}
+body{
+  background-color: black;
+}
+p{
+  border: solid 5px red;
+  color: white;
+}
+img{
+  border: solid 5px blue;
+  display: block;
+  margin-left: auto;'
+  margin-right: auto; 
+}
+p{
+  font-size: 40px;
+  text-align: center;
+}
+h1{
+  text-align: center;
+  text-decoration: underline;
+  font-size: 40px;
+}
 
