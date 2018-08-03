@@ -1,34 +1,40 @@
 h1{
-  color: red;
-}
+  color: purple;
+  font-size: 100px;
+  text-align: center;
+  text-decoration: underline;
+  }
 body{
   background-color: black;
 }
+
 p{
-  border: solid 5px red;
-  color: white;
+  color: red;
+    border: solid 5px purple;
+  font-size: 40px;
+  text-align: center;
 }
+
 img{
-  border: solid 5px blue;
+  border: solid 5px red;
   display: block;
-  margin-left: auto;'
-  margin-right: auto; 
-}
-p{
+  margin-left: auto;
+  }
+
+h2{
+  color: purple;
   font-size: 40px;
+  border: solid 4px red;
   text-align: center;
-}
-h1{
-  text-align: center;
-  text-decoration: underline;
-  font-size: 40px;
-}
+  }
+
 table {
-  color: white;
-  border: 5px solid white;
-  font-size: 20px;
+  color: purple;
+  border: 8px solid red;
+  font-size: 30px;
 }
+
 td {
-  border: 3px solid white;
-  padding: 15px;
+  border: 5px solid white;
+  padding: 18px;
 }
